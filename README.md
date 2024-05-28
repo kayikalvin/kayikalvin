@@ -17,8 +17,6 @@
 
 - [SQL Basics Certification](https://www.hackerrank.com/certificates/896e086a337a) - Issued by HackerRank, showcasing proficiency in fundamental SQL concepts.
 
-
-<hr>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kayikalvin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
