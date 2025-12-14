@@ -1,7 +1,70 @@
-# 💫 About Me:
-<br>👋 Hey there! I'm Kalvin Kayi, a passionate data analyst student with a knack for uncovering insights from complex datasets. 👩‍💻 Currently exploring the realms of data science and analytics, I thrive on the thrill of turning raw data into actionable solutions.<br><br>🔍 My journey into the world of data began with a curious mind and a determination to decode the stories hidden within numbers. From wrangling messy data to crafting visually appealing dashboards, I'm on a mission to make data both understandable and impactful.<br>
-<br>📈 Whether it's predicting future trends or uncovering patterns in historical data, I'm always eager to dive into new challenges and expand my analytical toolkit.<br><br>🌟 Interests: Data visualization, Machine Learning, Statistical Analysis.<br><br>🤝 I'm looking to collaborate on: Open-source projects, data analysis challenges, and research endeavors.<br><br>📫 How to reach me: Feel free to drop me a message via [kayikalvin@gmail.com](kayikalvin@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/kayikalvin/).<br><br>💡 Fun Fact: Did you know that I once analyzed the correlation between weather patterns and coffee consumption in my city? Turns out, rainy days lead to a spike in caffeine cravings! ☕️<br><br>Let's connect and collaborate on all things data! Feel free to reach out for discussions, feedback, or potential opportunities. Together, let's harness the power of data to drive meaningful insights and innovations.<br>---
-<hr>
+## 👋 Hi, I’m Kalvin Kayi
+
+I’m a **Data Scientist and Full-Stack Developer** with hands-on experience building **machine learning models, data analysis pipelines, and production-ready APIs**. My work focuses on transforming raw data into reliable insights and deployable systems that solve real-world problems.
+
+I’ve worked across the full data lifecycle — from data collection and cleaning, to exploratory analysis, modeling, and finally **deployment through REST APIs and web interfaces**. I enjoy bridging the gap between data science and software engineering, ensuring models don’t just work in notebooks but deliver value in real applications.
+
+---
+
+## 🔍 What I Do
+
+* Perform exploratory data analysis (EDA) and statistical analysis on real-world datasets
+* Build and evaluate machine learning models for classification and prediction
+* Develop **RESTful APIs** using FastAPI for serving ML models
+* Integrate data science models with **React-based frontends**
+* Clean, preprocess, and engineer features from structured and text data
+* Visualize insights through clear, decision-focused charts and dashboards
+
+---
+
+## 🧠 Experience Highlights
+
+* Built **fake news and fact-checking models** using NLP techniques and real/fake news datasets
+* Developed **classification models** including sonar mine vs rock detection, heart disease prediction, and cancer diagnosis
+* Created and deployed **ML-powered APIs** for real-time predictions
+* Worked on **data analysis projects** involving sales trends, weather patterns, and time-series insights
+* Designed full-stack applications combining **Python, FastAPI, React, and MongoDB**
+
+---
+
+## 📊 Areas of Focus
+
+* Machine Learning & Applied AI
+* Data Analysis & Statistical Modeling
+* Natural Language Processing (NLP)
+* Data Visualization & EDA
+* API Development & Model Deployment
+
+---
+
+## 🤝 Open to Collaboration
+
+I’m open to collaborating on:
+
+* Open-source data science and machine learning projects
+* Applied AI and analytics challenges
+* Research-driven data projects
+* Full-stack applications with a strong data component
+
+If the work involves meaningful data, scalable systems, or applied machine learning, I’m interested.
+
+---
+
+## 📫 Let’s Connect
+
+* **Email:** [kayikalvin@gmail.com](mailto:kayikalvin@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/kayikalvin/](https://www.linkedin.com/in/kayikalvin/)
+
+---
+
+## 💡 Fun Fact
+
+I once analyzed the relationship between **weather patterns and coffee consumption**. The data confirmed what caffeine lovers already suspected — rainy days dramatically increase coffee demand ☕📈
+
+---
+
+*Focused on building data-driven systems that move beyond notebooks and into production.*
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kayikalvin/) 
