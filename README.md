@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Kalvin Kayi
+# 👋 Hi, I’m Kalvin Kayi
 
 I’m a **Data Scientist and Full-Stack Developer** with hands-on experience building **machine learning models, data analysis pipelines, and production-ready APIs**. My work focuses on transforming raw data into reliable insights and deployable systems that solve real-world problems.
 
