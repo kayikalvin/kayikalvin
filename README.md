@@ -56,12 +56,12 @@ I’m open to collaborating on:
 
 If the work involves meaningful data, scalable systems, or applied machine learning, I’m interested.
 
+
 ---
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=kayikalvin&theme=tokyonight&radius=10" alt="kayikalvin's Activity Graph" />
+</p>
 
-## 📫 Let’s Connect
-
-* **Email:** [kayikalvin@gmail.com](mailto:kayikalvin@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/kayikalvin/](https://www.linkedin.com/in/kayikalvin/)
 
 ---
 
