@@ -1,4 +1,3 @@
-# 👋 Hi, I’m Kalvin Kayi
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Kalvin%20Kayi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20Engineer%20and%20Full%20Stack%20Dev&descSize=18&descAlignY=55&textBg=false"/>
 
 
