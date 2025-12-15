@@ -1,5 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Kalvin%20Kayi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20Engineer%20and%20Full%20Stack%20Dev&descSize=18&descAlignY=55&textBg=false"/>
 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=kayikalvin">
+    <img src="https://komarev.com/ghpvc/?username=kayikalvin&label=Profile%20views&color=00FFFF&style=flat-square" alt="kayikalvin's profile views" />
+  </a>
+</p>
+
+
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/kayikalvin/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/KayiKalvin" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/706698592" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://www.youtube.com/@kayikalvincodes" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="Youtube" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:kayikalvin@gmial.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://kayikalvin.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
@@ -8,11 +15,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=kayikalvin">
-    <img src="https://komarev.com/ghpvc/?username=kayikalvin&label=Profile%20views&color=00FFFF&style=flat-square" alt="kayikalvin's profile views" />
-  </a>
-</p>
+
 
 I’m a **Data Scientist and Full-Stack Developer** with hands-on experience building **machine learning models, data analysis pipelines, and production-ready APIs**. My work focuses on transforming raw data into reliable insights and deployable systems that solve real-world problems.
 
