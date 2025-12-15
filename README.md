@@ -1,4 +1,6 @@
 # 👋 Hi, I’m Kalvin Kayi
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Kalvin%20Kayi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20Engineer%20and%20Full%20Stack%20Dev&descSize=18&descAlignY=55&textBg=false"/>
+
 
 I’m a **Data Scientist and Full-Stack Developer** with hands-on experience building **machine learning models, data analysis pipelines, and production-ready APIs**. My work focuses on transforming raw data into reliable insights and deployable systems that solve real-world problems.
 
