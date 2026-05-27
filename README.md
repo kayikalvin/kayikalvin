@@ -21,7 +21,7 @@
 
 
 
-I’m a **Data Scientist and Full-Stack Developer** with hands-on experience building **machine learning models, data analysis pipelines, and production-ready APIs**. My work focuses on transforming raw data into reliable insights and deployable systems that solve real-world problems.
+I’m a **Software Developer** with hands-on experience building **machine learning models, data analysis pipelines, and production-ready APIs**. My work focuses on transforming raw data into reliable insights and deployable systems that solve real-world problems.
 
 I’ve worked across the full data lifecycle — from data collection and cleaning, to exploratory analysis, modeling, and finally **deployment through REST APIs and web interfaces**. I enjoy bridging the gap between data science and software engineering, ensuring models don’t just work in notebooks but deliver value in real applications.
 
